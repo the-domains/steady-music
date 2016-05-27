@@ -1,0 +1,14 @@
+layout_spectrum: 0.042246937518939376
+typography_spectrum: 0.6561504153069109
+color:
+  brandStrength: 0.27330870903097093
+  lightness: 0.7825997611507773
+  saturation: 0.2228874214924872
+  rhythmicContrast: 0.8342382675036788
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: steady music
