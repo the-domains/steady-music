@@ -6,9 +6,9 @@ color:
   saturation: 0.2228874214924872
   rhythmicContrast: 0.8342382675036788
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: steady music
